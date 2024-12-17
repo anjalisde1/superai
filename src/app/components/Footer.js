@@ -93,7 +93,8 @@ const Footer = () => {
 
         {/* Divider */}
         <div className="border-t border-gray-700 mt-8 pt-4 text-center text-sm">
-          <p>© 2024 SmartBot. All Rights Reserved.</p>
+          <p>© 2024 TheSuperAI. All Rights Reserved.
+          </p>
         </div>
       </div>
     </footer>
