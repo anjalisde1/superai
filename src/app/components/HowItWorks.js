@@ -42,7 +42,7 @@ export default function HowItWorksSection() {
           Simplify Household Tasks
           </h3>
           <p className="text-16 text-gray-600">
-          "Our robot tackles household chores, from cooking to organizing, giving you more time for the things that matter."          </p>
+          Our robot tackles household chores, from cooking to organizing, giving you more time for the things that matter.          </p>
         </div>
       </div>
 
@@ -56,7 +56,7 @@ export default function HowItWorksSection() {
           <h3 className="text-[24px] font-semibold text-[#081550] mb-2">
           Control with Voice Commands
           </h3>
-          <p className="text-16 text-gray-600">"Simply describe the tasks you want the robot to perform, and it will follow through with the precision of your voice commands."
+          <p className="text-16 text-gray-600">Simply describe the tasks you want the robot to perform, and it will follow through with the precision of your voice commands.
           </p>
 
           
@@ -102,7 +102,7 @@ export default function HowItWorksSection() {
           Quick Setup, Effortless Integration
           </h3>
           <p className="text-16 text-gray-600">
-          "It takes minutes—not days—to set up, and the robot integrates smoothly into your daily routine, adapting to your home’s needs and freeing up your schedule."</p>        </div>
+          It takes minutes—not days—to set up, and the robot integrates smoothly into your daily routine, adapting to your home’s needs and freeing up your schedule.</p>        </div>
       </div>
     </section>
   );
