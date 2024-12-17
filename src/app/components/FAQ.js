@@ -12,32 +12,25 @@ const FAQSection = () => {
       }, []);
     const faqs = [
         {
-            question: "What is the onboarding process?",
-            answer: `Onboarding is extremely simple on Spur — since we do not require access to your codebase, 
-      all you need to provide is a public URL to start writing your first test.
-      We onboard customers in two steps: first, hop on a call with us to help us understand your 
-      requirements, and we'll onboard you on the next call and get you set up in no time!`,
+            question: "What kind of household tasks can the robot handle?",
+            answer: `Our robot is equipped to tackle a wide range of tasks, including cleaning, cooking, organizing, and more. Whether it's preparing meals or tidying up your living space, the robot adapts to your specific needs.`,
         },
         {
-            question: "How does the Spur Agent work?",
-            answer: `The Spur Agent is a vision-first, multi-modal agent. This means that your tests are not reliant 
-      on CSS selectors, unlike tests written in web-automation frameworks like Playwright or Selenium. 
-      This allows your tests to be more reliable, reducing false-positives, so you can focus on shipping faster!`,
+            question: "Can the robot learn my preferences over time?",
+            answer: `Yes, the robot uses advanced learning algorithms to understand your preferences and routines. Over time, it adapts to your household’s specific needs, making it more efficient and intuitive with each use.`,
         },
         {
-            question: "What kind of flows do you support?",
-            answer: `We can support any action that happens within the browser window—no matter how complex your use case is. 
-      The Spur Agent interacts with the browser just like any human does!`,
+            question: "Is the robot suitable for homes with pets or children?",
+            answer: `Absolutely! The robot is designed to safely interact with all members of the household, including pets and children. Its gentle operation and smart sensors ensure that it won’t cause any harm or disruptions while performing tasks.`,
         },
         {
-            question: "Do I need to know how to code to use Spur?",
-            answer: `No! Spur is a no-code test platform — this means that all tests can be written in natural language. 
-      Whether you are a PM, CTO, Engineer, or QA — anyone can write tests on Spur.`,
+            question: "How does the robot handle complex tasks like cooking?",
+            answer: `The robot is capable of following detailed instructions for complex tasks like cooking. Just provide it with the necessary voice commands or recipes, and it will prepare meals with precision, ensuring high-quality results every time.
+`,
         },
         {
-            question: "Can we test APIs through Spur?",
-            answer: `Yes! We have API testing support for tests! You can call, store, and verify the response of 
-      any APIs in Spur — including ones that are dynamically generated.`,
+            question: "Can I control the robot remotely if I'm not at home?",
+            answer: `Yes! You can control the robot remotely via your smartphone or other connected devices. Whether you're at work or on vacation, you can still manage tasks and keep an eye on your home’s needs.`,
         },
     ];
 
