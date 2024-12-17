@@ -39,11 +39,10 @@ export default function HowItWorksSection() {
           data-aos-duration="1000"
           className="lg:w-[340px] md:w-1/2  p-4">
           <h3 className="text-[24px] font-semibold text-[#081550]">
-            Test your website with natural language
+          Simplify Household Tasks
           </h3>
           <p className="text-16 text-gray-600">
-            I aim to transform the way you manage your home. By combining advanced robotics and smart wearable devices, I handle household chores and provide 24/7 emotional support, so you can focus on what matters most.
-          </p>
+          "Our robot tackles household chores, from cooking to organizing, giving you more time for the things that matter."          </p>
         </div>
       </div>
 
@@ -55,19 +54,12 @@ export default function HowItWorksSection() {
           className="lg:w-[340px] md:w-1/2 p-4"
         >
           <h3 className="text-[24px] font-semibold text-[#081550] mb-2">
-            My Vision: Smart Homes of Tomorrow
+          Control with Voice Commands
           </h3>
-          <p className="text-16 text-gray-600"><h4 className="text-[20px] font-normal text-[#081550]">Physical Robot:
-          </h4>
-            Manage chores like cleaning, cooking, organizing, and more.
+          <p className="text-16 text-gray-600">"Simply describe the tasks you want the robot to perform, and it will follow through with the precision of your voice commands."
           </p>
 
-          <p className="text-16 text-gray-600 mt-2">
-            <h4 className="text-[20px] font-normal text-[#081550]">
-              Wearable Companion Device:
-            </h4>
-            Providing emotional support and reminders, seamlessly integrated with the robot.
-          </p>
+          
         </div>
         <div
           data-aos="fade-left"
@@ -107,11 +99,10 @@ export default function HowItWorksSection() {
           data-aos-duration="1000"
           className=" md:w-1/2  lg:w-[340px] p-4">
           <h3 className="text-[24px] font-semibold text-[#081550] mb-2">
-            Why Now? The Need for Intelligent Household Solutions
+          Quick Setup, Effortless Integration
           </h3>
           <p className="text-16 text-gray-600">
-            With the growing demand for household robots, labor shortages, and the push for work-life balance, it's the perfect time for innovation in household management.          </p>
-        </div>
+          "It takes minutes—not days—to set up, and the robot integrates smoothly into your daily routine, adapting to your home’s needs and freeing up your schedule."</p>        </div>
       </div>
     </section>
   );
